@@ -12,4 +12,4 @@
 
 ![image](https://github.com/DmAlexx/Denoising/assets/106063042/1144520c-ec09-49a7-8a1f-5c1131a80daf)
 
-![image](https://github.com/DmAlexx/Denoising/assets/106063042/60a6a6ba-e39b-4c04-86fb-68ae31a5be59)
+![image](https://github.com/DmAlexx/Denoising/assets/106063042/7b518005-f5a7-4622-93a7-9dbf4829bd73)
